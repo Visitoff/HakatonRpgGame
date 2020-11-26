@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C4F32454-27F2-E67A-125A-90DC39D417D7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scene/Camera.cs">
+    <Files>
+      <File FileName="Assets/Scene/PlayerMovement.cs" Line="51" Column="5" />
+      <File FileName="Assets/Scene/Camera.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hakaton Rpg" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scene" expanded="True">
+                <Node name="Camera.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="721e51bd-a91d-4fa1-b631-dfcf4889c008" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
